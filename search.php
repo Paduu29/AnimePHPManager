@@ -10,7 +10,7 @@ foreach (glob("functions/*.inc") as $filename) {
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Alex's Porno und Anime Manager</title>
+        <title>Alex's Anime Manager</title>
         <link rel="stylesheet" href="style.css">
     </head>
 
